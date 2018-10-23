@@ -1768,7 +1768,13 @@ body {
 .cid-r7koxRFVlY {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
+}
+.cid-r7koxRFVlY H1 {
+  color: #55b4d4;
+}
+.cid-r7koxRFVlY H3 {
+  color: #55b4d4;
 }
 .cid-r7kpvPONcF {
   background-image: url("../../../assets/images/03.jpg");
